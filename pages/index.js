@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Coba Next Js <code>pages/index.js</code>
+          Hello Next Js
         </p>
       </main>
 
