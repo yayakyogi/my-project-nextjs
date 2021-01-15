@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description text-2xl text-gray-700 font-extralight">
-          Hello Next Js
+          Hello World!
         </p>
       </main>
 
