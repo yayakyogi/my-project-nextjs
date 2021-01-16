@@ -4,7 +4,7 @@ function Footer(){
       <div className="bg-transparent flex justify-center items-center h-screen footer-content">
           <div className="w-full md:w-96">
               <img src="img/coding.png" className="my-6 block w-72 mx-auto shadow-2xl rounded-md" alt="img-footer" data-aos="zoom-out"/>
-              <p className="my-2 font-thin text-center text-base text-gray-300 tracking-widest"data-aos="zoom-out">Made by &hearts; kulikode</p>
+              <p className="my-2 font-thin text-center text-base text-gray-300 tracking-widest"data-aos="zoom-out">Made by  <img src="/netliheart.svg" alt="Netlify Logo" className="w-4 h-4 inline-block"/> kulikode</p>
               <div className="flex justify-center items-center" data-aos="zoom-out">
                   <svg className="w-3 h-3 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
