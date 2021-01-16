@@ -10,7 +10,7 @@ export default function IndexPage() {
   return (
     <div id="top" className="antialias overflow-hidden dark:bg-gray-900">
        <Head>
-        <title>My Project</title>
+        <title>My Project NextJS</title>
         <link rel="icon" href="img/logo.png" />
       </Head>
       <Nav/>
