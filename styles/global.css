@@ -1,0 +1,12 @@
+html{
+    scroll-behavior: smooth;
+}
+.footer{
+    background-image: url('../public/img/background.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footer-content{
+    background-color: rgba(0,0,0,0.4);
+}
